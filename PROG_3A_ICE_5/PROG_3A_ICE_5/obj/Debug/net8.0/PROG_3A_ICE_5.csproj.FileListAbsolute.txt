@@ -1,0 +1,14 @@
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\bin\Debug\net8.0\PROG_3A_ICE_5.exe
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\bin\Debug\net8.0\PROG_3A_ICE_5.deps.json
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\bin\Debug\net8.0\PROG_3A_ICE_5.runtimeconfig.json
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\bin\Debug\net8.0\PROG_3A_ICE_5.dll
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\bin\Debug\net8.0\PROG_3A_ICE_5.pdb
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\obj\Debug\net8.0\PROG_3A_ICE_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\obj\Debug\net8.0\PROG_3A_ICE_5.AssemblyInfoInputs.cache
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\obj\Debug\net8.0\PROG_3A_ICE_5.AssemblyInfo.cs
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\obj\Debug\net8.0\PROG_3A_ICE_5.csproj.CoreCompileInputs.cache
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\obj\Debug\net8.0\PROG_3A_ICE_5.dll
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\obj\Debug\net8.0\refint\PROG_3A_ICE_5.dll
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\obj\Debug\net8.0\PROG_3A_ICE_5.pdb
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\obj\Debug\net8.0\PROG_3A_ICE_5.genruntimeconfig.cache
+C:\Users\kreas\source\repos\PROG_3A_ICE_5\PROG_3A_ICE_5\obj\Debug\net8.0\ref\PROG_3A_ICE_5.dll
